@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: skyblue;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav h2{
+    margin-left: 8%;
+}
+.container img{
+    width: 42%;
+    height: 32vh;
+}
+.plus{
+    background-color: skyblue;
+    color: white;
+    padding: 3px 11px;
+    margin-top: 14px;
+}
+.minus{
+    background-color: skyblue;
+    padding: 3px 11px;
+    margin: 11px;
+}
+.container{
+    width: 31.44%;
+    display: inline-block;
+    margin: 12px;
+    padding: 8px;
+}
+.gallery {
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
